@@ -11,8 +11,6 @@
 <br>
 <br> 👨‍💻 Intermediate level of coding experience
 <br>
-<br> 💻 System Engineer - first job position once I graduated
-<br>
 <br>
 <br>
 <br>
