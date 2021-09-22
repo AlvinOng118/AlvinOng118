@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AlvinOng118
-- 👀 I’m interested in Cyber Security (Pentest and Security Operation) and IT related
+-    Cyber Security Fresh Graduate
+- 👀 I’m interested in Cyber Security (Pentest and Security Operation)
 - 💻 I'm currently a System Engineer
 - 📫 How to reach me --> alvinong11@outlook.com
 
