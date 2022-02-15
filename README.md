@@ -5,7 +5,7 @@
 <h3>
 <br> 🙋 98's Tech Guy
 <br>
-<br> 👨‍💻 Cyber Security Executive
+<br> 👨‍💻 Cyber Security Enthusiast | Pentester
 <br>
 <br> 👀 Master Exploring in Cyber Security related field (Pentest and Security Operation) and Virtualization Environment
 <br>
